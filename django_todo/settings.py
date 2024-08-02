@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-@o_l+o(e44vw^j9ycdtnc6z86frpqhrj*5@ll2#f5b9xh0q!ul
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-cambboyle-djangolearnin-00dnxy9vdo6.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['cbb00-django-todo-app-609575cadd82.herokuapp.com']
 
 
 # Application definition
